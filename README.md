@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxvelx
-- 👀 I’m interested in training my skill in PHP code.
-- 🌱 I’m currently learning PHP now, near future will start learn Laravel.
+- 👀 I’m interested in training my skill in PHP and Laravel code.
+- 🌱 I’m currently learning and work in PHP and Laravel.
 - 💞️ I’m looking to collaborate on any project where i can help.
 - 📫 How to reach me: Email: maxvel463@gmail.com
