@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxvelx
-- 👀 I’m interested in training my skill in PHP and Laravel code.
-- 🌱 I’m currently learning and work in PHP and Laravel.
+- 👀 I’m develop projects on Vue 3 and Laravel.
+- 🌱 I’m currently develop my portfolio site and more some projects.
 - 💞️ I’m looking to collaborate on any project where i can help.
 - 📫 How to reach me: Email: maxvel463@gmail.com
