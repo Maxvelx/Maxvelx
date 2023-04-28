@@ -6,4 +6,4 @@
 ##### - 📫 How to reach me: maxvelx.develop@gmail.com
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,laravel,linux,php,postman,mysql,github,vite,git,linkedin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,laravel,linux,php,postman,mysql,github,vite,git,linkedin,docker,figma,&theme=light)](https://skillicons.dev)
